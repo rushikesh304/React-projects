@@ -1,1 +1,47 @@
 
+🏨 Hotel Booking Frontend - React Project
+
+This is a fully responsive frontend hotel booking interface built using React.js. It allows users to explore rooms, check availability, and view essential details with a clean and user-friendly design.
+
+🚀 Features
+- Beautiful landing page with navigation
+- Room listing with images and descriptions
+- Responsive layout for mobile and desktop
+- React Router-based navigation
+- Organized component structure
+- Clean UI with reusable components
+
+📁 Folder Structure
+React-projects/
+└── hotel/
+    ├── public/
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   └── App.js
+    ├── package.json
+    └── README.txt
+
+🛠️ Installation and Running the Project
+
+Make sure you have Node.js and npm installed on your machine.
+
+1. Navigate to the project folder:
+   cd hotel
+
+2. Install dependencies:
+   npm install
+
+3. Start the development server:
+   npm start
+
+The app will run on http://localhost:3000
+
+👨‍💻 Developer Notes
+
+This project is a part of my Frontend Developer portfolio and is focused on React.js development only. Backend/API integration is not included in this repository.
+
+📬 Contact
+Rushikesh Bhilare
+GitHub: https://github.com/rushikesh304
+
